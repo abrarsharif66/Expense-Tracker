@@ -68,7 +68,7 @@ The Expense Tracker features a simple and easy-to-navigate interface, ensuring a
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/sree-hari-s/Expense-Tracker.git
+   git clone https://github.com/abrarsharif66/Expense-Tracker
    cd Expense-Tracker
    ```
 
